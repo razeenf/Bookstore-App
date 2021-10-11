@@ -605,6 +605,3 @@ public class Main extends Application {
         launch(args);
     }
 }
-
-//all that remains is to clean up the code (css file/ put that damn for loop shit in a class)
-// and implement the state design pattern
