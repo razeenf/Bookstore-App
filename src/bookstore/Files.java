@@ -60,9 +60,5 @@ public class Files {
         }
         return tempCustomerHolder;
     }
-    //this makes file but does not write to it so idk if it can read from it either
-    //update: makes file and does read but cannot write so fix that and update files as program opens/closes
-    //update: reads and writes and updates files to include newly added books but cannot delete books
-    //update: overhauled method of writing to files so delete method not needed files are written to from array and reset at the end of
-    //each session so all tables are updated with current stock when reopened and arrays filled with files contents
+
 }
